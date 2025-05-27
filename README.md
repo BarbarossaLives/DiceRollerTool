@@ -19,5 +19,18 @@ standard dice and includes modifiers and total roll calculation.
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourname/dice_roller_tool.git
-   cd dice_roller_tool
+   git clone https://github.com/BarbaarossaLives/DiceRollerTool.git
+   cd DiceRollerTool
+
+2. Install dependencies
+
+   pip install ttkstrap
+
+3 Run the tool
+
+   python dice_roller_phase_1.py
+
+
+COMING SOON
+   Discord bot integration
+   Character/weapon/armor integration 
